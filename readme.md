@@ -1,1 +1,1 @@
-qr_codes/github_qr.png
+(qr_codes/github_qr.png)
